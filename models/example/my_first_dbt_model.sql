@@ -7,6 +7,7 @@
     Try changing "table" to "view" below
 */
 --add comments in model sql
+--add more comments to the file
 
 {{ config(materialized='table') }}
 
